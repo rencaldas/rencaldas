@@ -4,20 +4,17 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/rencaldas/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/rencaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<a href="https://github.com/rencaldas">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://github.com/rencaldas" target="_blank" rel="external noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:YOUR_EMAIL@example.com" target="_blank" rel="external noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-<a href="https://your-portfolio.example.com">
-  <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<a href="https://your-portfolio.example.com" target="_blank" rel="external noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
