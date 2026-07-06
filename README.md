@@ -11,13 +11,27 @@ The rest of the profile is wired to work out of the box.
 
 <br />
 
+<img
+  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=120&speed=90&color=5EEAD4&center=true&vCenter=true&multiline=true&width=920&height=150&lines=Systems+Analyst;Computer+Science+Student;Cloud+Enthusiast;Backend+Developer;Automation+Engineer;Software+Engineer;Continuous+Learner"
+  alt="Typing animation"
+/>
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcaldas/)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rencaldas)
-[![Email](https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.example.com)
-[![Blog](https://img.shields.io/badge/Blog-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-blog.example.com)
+<a href="https://www.linkedin.com/in/rcaldas/" target="_blank" rel="external noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/rencaldas" target="_blank" rel="external noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com" target="_blank" rel="external noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://your-portfolio.example.com" target="_blank" rel="external noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://your-blog.example.com" target="_blank" rel="external noopener noreferrer">
+  <img src="https://img.shields.io/badge/Blog-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
+</a>
 
 </div>
 
@@ -192,38 +206,26 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Email Investigation Dashboard</h3>
-      <p align="center">Operational dashboard for triage, investigation, and visibility.</p>
-      <p align="center"><strong>Power BI | SQL | Automation</strong></p>
+      <h3 align="center"><a href="https://github.com/rencaldas/seslock-holmes" target="_blank" rel="external noopener noreferrer">seslock-holmes</a></h3>
+      <p align="center">Dashboard to investigate Amazon SES events, centralize logs, bounces, complaints, and delivery metrics, and speed up troubleshooting.</p>
+      <p align="center"><strong>TypeScript | AWS SES | Dashboard | Diagnostics</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Internal Automation Platform</h3>
-      <p align="center">Reusable workflows that remove manual work from daily operations.</p>
-      <p align="center"><strong>n8n | REST APIs | Webhooks</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Enterprise Integrations</h3>
-      <p align="center">Connectors and services for ERP, databases, and internal systems.</p>
-      <p align="center"><strong>Python | SQL | AWS | Oracle</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Cloud Labs</h3>
-      <p align="center">Practical experiments in cloud architecture, deployment, and security.</p>
-      <p align="center"><strong>AWS | Docker | Terraform</strong></p>
+      <h3 align="center"><a href="https://github.com/rencaldas/projeto-alfredos" target="_blank" rel="external noopener noreferrer">projeto-alfredos</a></h3>
+      <p align="center">Self-hosted automation ecosystem that integrates RSS feeds and APIs with Telegram Bot API workflows through n8n and Docker.</p>
+      <p align="center"><strong>n8n | Docker | JavaScript | API Integration | Automation</strong></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Docker Labs</h3>
-      <p align="center">Containerized services and deployment-ready environments.</p>
-      <p align="center"><strong>Docker | Linux | GitHub Actions</strong></p>
+      <h3 align="center"><a href="https://github.com/rencaldas/projeto_extensao_vi" target="_blank" rel="external noopener noreferrer">projeto_extensao_vi</a></h3>
+      <p align="center">Academic 32-bit block cipher built as a substitution-permutation network in pure Python for systems security and cryptography studies.</p>
+      <p align="center"><strong>Python | Cryptography | Security | Algorithms</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Future Open Source Projects</h3>
-      <p align="center">Public tools and utilities built with a systems engineering mindset.</p>
-      <p align="center"><strong>Backend | Automation | Platform</strong></p>
+      <h3 align="center"><a href="https://github.com/rencaldas/simulador_filas_estocasticas" target="_blank" rel="external noopener noreferrer">simulador_filas_estocasticas</a></h3>
+      <p align="center">Discrete-event queue simulator for modeling service systems and analyzing performance with stochastic processes.</p>
+      <p align="center"><strong>Python | Simulation | Queueing Theory | Performance Analysis</strong></p>
     </td>
   </tr>
 </table>
