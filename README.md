@@ -11,8 +11,7 @@
 <br />
 
 <a href="https://www.linkedin.com/in/rcaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
-  <img src="./assets/linkedin.svg" alt="LinkedIn logo" width="24" height="24" />
-  <span>LinkedIn</span>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/rencaldas" target="_blank" rel="external noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -301,8 +300,7 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 <br />
 
 <a href="https://www.linkedin.com/in/rcaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:6px; text-decoration:none;">
-  <img src="./assets/linkedin.svg" alt="LinkedIn logo" width="18" height="18" />
-  <span>LinkedIn</span>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a> | [GitHub](https://github.com/rencaldas) | [Email](mailto:YOUR_EMAIL@example.com) | [Portfolio](https://your-portfolio.example.com)
 
 </div>
