@@ -10,10 +10,10 @@
 <a href="https://github.com/rencaldas" target="_blank" rel="external noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com" target="_blank" rel="external noopener noreferrer">
+<a href="mailto:renato.deacaldas@gmail.com" target="_blank" rel="external noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://your-portfolio.example.com" target="_blank" rel="external noopener noreferrer">
+<a href="https://rencaldas.github.io/" target="_blank" rel="external noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -288,10 +288,10 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 
 <a href="https://www.linkedin.com/in/rencaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:6px; text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a> | [GitHub](https://github.com/rencaldas) | [Email](mailto:YOUR_EMAIL@example.com) | [Portfolio](https://your-portfolio.example.com)
+</a> | [GitHub](https://github.com/rencaldas) | [Email](mailto:renato.deacaldas@gmail.com) | [Portfolio](https://rencaldas.github.io/)
 
 </div>
 
 [github]: https://github.com/rencaldas
-[email]: mailto:YOUR_EMAIL@example.com
-[portfolio]: https://your-portfolio.example.com
+[email]: mailto:renato.deacaldas@gmail.com
+[portfolio]: https://rencaldas.github.io/
