@@ -43,22 +43,22 @@ I am Renato Azevedo Caldas, a Systems Analyst intern in Rio de Janeiro focused o
 
 I study Computer Science at Veiga de Almeida University, with graduation expected in 2027, and I enjoy turning business requirements into reliable technical solutions for internal teams and production environments.
 
-<table>
+<table width="100%" align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <td><strong>Location</strong></td>
-    <td>Rio de Janeiro, Brazil</td>
+    <td align="center"><strong>Location</strong></td>
+    <td align="center">Rio de Janeiro, Brazil</td>
   </tr>
   <tr>
-    <td><strong>Role</strong></td>
-    <td>Systems Analyst Intern at Ramada Atacadista</td>
+    <td align="center"><strong>Role</strong></td>
+    <td align="center">Systems Analyst Intern at Ramada Atacadista</td>
   </tr>
   <tr>
-    <td><strong>Focus</strong></td>
-    <td>Cloud Computing, Software Engineering, Automation, Databases, Platform Engineering</td>
+    <td align="center"><strong>Focus</strong></td>
+    <td align="center">Cloud Computing, Software Engineering, Automation, Databases, Platform Engineering</td>
   </tr>
   <tr>
-    <td><strong>Education</strong></td>
-    <td>Bachelor's Degree in Computer Science, Veiga de Almeida University, expected 2027</td>
+    <td align="center"><strong>Education</strong></td>
+    <td align="center">Bachelor's Degree in Computer Science, Veiga de Almeida University, expected 2027</td>
   </tr>
 </table>
 
@@ -131,7 +131,7 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
@@ -185,45 +185,79 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 
 ## Education
 
-| Institution | Program | Status |
-| --- | --- | --- |
-| Veiga de Almeida University | Bachelor's Degree in Computer Science | Expected 2027 |
+<table width="100%" align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td align="center"><strong>Institution</strong></td>
+    <td align="center"><strong>Program</strong></td>
+    <td align="center"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Veiga de Almeida University</td>
+    <td align="center">Bachelor's Degree in Computer Science</td>
+    <td align="center">Expected 2027</td>
+  </tr>
+</table>
 
 ## Certifications
 
-| Certification | Area |
-| --- | --- |
-| Power BI Complete | Analytics |
-| Power BI Data Modeling | Analytics |
-| Python | Programming |
-| Programming Logic | Fundamentals |
-| C Programming | Programming |
-| TOEFL Junior Gold | English |
-| BRASAS English | English |
+<table width="100%" align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td align="center"><strong>Certification</strong></td>
+    <td align="center"><strong>Area</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Power BI Complete</td>
+    <td align="center">Analytics</td>
+  </tr>
+  <tr>
+    <td align="center">Power BI Data Modeling</td>
+    <td align="center">Analytics</td>
+  </tr>
+  <tr>
+    <td align="center">Python</td>
+    <td align="center">Programming</td>
+  </tr>
+  <tr>
+    <td align="center">Programming Logic</td>
+    <td align="center">Fundamentals</td>
+  </tr>
+  <tr>
+    <td align="center">C Programming</td>
+    <td align="center">Programming</td>
+  </tr>
+  <tr>
+    <td align="center">TOEFL Junior Gold</td>
+    <td align="center">English</td>
+  </tr>
+  <tr>
+    <td align="center">BRASAS English</td>
+    <td align="center">English</td>
+  </tr>
+</table>
 
 ## Featured Projects
 
-<table>
+<table width="100%" align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rencaldas/seslock-holmes" target="_blank" rel="external noopener noreferrer">seslock-holmes</a></h3>
+      <h3 align="center" style="margin:0 0 8px 0;"><a href="https://github.com/rencaldas/seslock-holmes" target="_blank" rel="external noopener noreferrer">seslock-holmes</a></h3>
       <p align="center">Dashboard to investigate Amazon SES events, centralize logs, bounces, complaints, and delivery metrics, and speed up troubleshooting.</p>
       <p align="center"><strong>TypeScript | AWS SES | Dashboard | Diagnostics</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rencaldas/projeto-alfredos" target="_blank" rel="external noopener noreferrer">projeto-alfredos</a></h3>
+      <h3 align="center" style="margin:0 0 8px 0;"><a href="https://github.com/rencaldas/projeto-alfredos" target="_blank" rel="external noopener noreferrer">projeto-alfredos</a></h3>
       <p align="center">Self-hosted automation ecosystem that integrates RSS feeds and APIs with Telegram Bot API workflows through n8n and Docker.</p>
       <p align="center"><strong>n8n | Docker | JavaScript | API Integration | Automation</strong></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rencaldas/projeto_extensao_vi" target="_blank" rel="external noopener noreferrer">projeto_extensao_vi</a></h3>
+      <h3 align="center" style="margin:0 0 8px 0;"><a href="https://github.com/rencaldas/projeto_extensao_vi" target="_blank" rel="external noopener noreferrer">projeto_extensao_vi</a></h3>
       <p align="center">Academic 32-bit block cipher built as a substitution-permutation network in pure Python for systems security and cryptography studies.</p>
       <p align="center"><strong>Python | Cryptography | Security | Algorithms</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rencaldas/simulador_filas_estocasticas" target="_blank" rel="external noopener noreferrer">simulador_filas_estocasticas</a></h3>
+      <h3 align="center" style="margin:0 0 8px 0;"><a href="https://github.com/rencaldas/simulador_filas_estocasticas" target="_blank" rel="external noopener noreferrer">simulador_filas_estocasticas</a></h3>
       <p align="center">Discrete-event queue simulator for modeling service systems and analyzing performance with stochastic processes.</p>
       <p align="center"><strong>Python | Simulation | Queueing Theory | Performance Analysis</strong></p>
     </td>
@@ -234,8 +268,8 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rencaldas&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=CBD5E1&icon_color=38BDF8" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rencaldas&layout=compact&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=CBD5E1" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rencaldas&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=CBD5E1&icon_color=38BDF8&cache_seconds=1800" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rencaldas&layout=compact&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=CBD5E1&cache_seconds=1800" alt="Top languages" />
 
 <br />
 <br />
@@ -250,7 +284,7 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 <br />
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=rencaldas&theme=onedark&no-frame=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rencaldas&theme=onedark&no-frame=true&margin-w=8&margin-h=8&column=4&row=2" alt="GitHub trophies" />
 
 </div>
 

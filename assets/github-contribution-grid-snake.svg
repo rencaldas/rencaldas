@@ -1,1 +1,52 @@
-<svg viewBox="-16 -32 48 96" width="48" height="96" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc><style>@keyframes s0{0%{transform:translate(0,-16px)}}@keyframes s1{0%{transform:translate(16px,-16px)}}@keyframes s2{0%{transform:translate(32px,-16px)}}@keyframes s3{0%{transform:translate(48px,-16px)}}:root{--cb:#1b1f230a;--cs:purple;--ce:#ebedf0;--c0:#ebedf0;--c1:#9be9a8;--c2:#40c463;--c3:#30a14e;--c4:#216e39}@media (prefers-color-scheme:dark){:root{--cb:#1b1f230a;--cs:purple;--ce:#161b22;--c1:#01311f;--c2:#034525;--c3:#0f6d31;--c4:#00c647}}.c{shape-rendering:geometricPrecision;fill:var(--ce);stroke-width:1px;stroke:var(--cb);animation:none 100ms linear infinite}.s,.u{animation:none linear 100ms infinite}.u{transform-origin:0 0;transform:scale(0,1)}.s{shape-rendering:geometricPrecision;fill:var(--cs)}.s.s0{transform:translate(0,-16px);animation-name:s0}.s.s1{transform:translate(16px,-16px);animation-name:s1}.s.s2{transform:translate(32px,-16px);animation-name:s2}.s.s3{transform:translate(48px,-16px);animation-name:s3}</style><rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/><rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="4.1" ry="4.1"/><rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/><rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3"/></svg>
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution snake animation</title>
+  <desc id="desc">Animated contribution snake that travels over the contribution grid.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816" />
+      <stop offset="1" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="snake" x1="120" y1="110" x2="1080" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" />
+      <stop offset="0.5" stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#A855F7" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="220" rx="24" fill="url(#bg)" />
+
+  <g opacity="0.14">
+    <path d="M80 70H1120" stroke="#94A3B8" stroke-width="1" />
+    <path d="M80 110H1120" stroke="#94A3B8" stroke-width="1" />
+    <path d="M80 150H1120" stroke="#94A3B8" stroke-width="1" />
+  </g>
+
+  <g opacity="0.14">
+    <rect x="120" y="52" width="32" height="32" rx="8" fill="#E2E8F0" />
+    <rect x="164" y="52" width="32" height="32" rx="8" fill="#CBD5E1" />
+    <rect x="208" y="52" width="32" height="32" rx="8" fill="#94A3B8" />
+    <rect x="252" y="52" width="32" height="32" rx="8" fill="#64748B" />
+    <rect x="296" y="52" width="32" height="32" rx="8" fill="#475569" />
+    <rect x="340" y="52" width="32" height="32" rx="8" fill="#334155" />
+    <rect x="384" y="52" width="32" height="32" rx="8" fill="#22D3EE" opacity="0.18" />
+    <rect x="428" y="52" width="32" height="32" rx="8" fill="#38BDF8" opacity="0.18" />
+  </g>
+
+  <path d="M120 112C220 112 250 84 320 84C390 84 420 112 500 112C580 112 620 84 700 84C780 84 820 112 900 112C980 112 1020 84 1080 84" stroke="url(#snake)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" opacity="0.75" />
+  <path d="M120 112C220 112 250 84 320 84C390 84 420 112 500 112C580 112 620 84 700 84C780 84 820 112 900 112C980 112 1020 84 1080 84" stroke="url(#snake)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+
+  <circle cx="1080" cy="84" r="16" fill="#F8FAFC">
+    <animate attributeName="cx" values="120;320;500;700;900;1080;120" dur="8s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="112;84;112;84;112;84;112" dur="8s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1080" cy="84" r="7" fill="#0F172A">
+    <animate attributeName="cx" values="120;320;500;700;900;1080;120" dur="8s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="112;84;112;84;112;84;112" dur="8s" repeatCount="indefinite" />
+  </circle>
+
+  <text x="80" y="36" fill="#F8FAFC" font-size="24" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Contribution Snake</text>
+  <text x="80" y="196" fill="#94A3B8" font-size="16" font-family="Inter, Segoe UI, Arial, sans-serif">Automatically refreshed by GitHub Actions.</text>
+</svg>
