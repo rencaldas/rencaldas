@@ -2,13 +2,7 @@
 
 <img src="./assets/banner.svg" alt="Renato Azevedo Caldas profile banner" width="100%" />
 
-<br />
-
-<img
-  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=120&speed=90&color=5EEAD4&center=true&vCenter=true&multiline=true&width=920&height=150&lines=Systems+Analyst;Computer+Science+Student;Cloud+Enthusiast;Backend+Developer;Automation+Engineer;Software+Engineer;Continuous+Learner"
-  alt="Typing animation"
-/>
-<br />
+<br>
 
 <a href="https://www.linkedin.com/in/rencaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
