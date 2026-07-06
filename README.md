@@ -26,7 +26,51 @@
 </div>
 
 
-<img src="./assets/profile-banner.svg" alt="Decorative profile banner" width="100%" />
+## GitHub Activity
+
+<div align="center">
+
+<img
+  src="./assets/github-metrics.svg"
+  alt="Recent GitHub activity summary"
+  width="49%"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=rencaldas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  alt="GitHub statistics"
+  width="49%"
+/>
+
+<br />
+
+<img
+  src="https://streak-stats.demolab.com?user=rencaldas&theme=tokyonight&hide_border=true"
+  alt="GitHub contribution streak"
+  width="49%"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rencaldas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Most used languages"
+  width="49%"
+/>
+
+<br />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rencaldas&theme=tokyo-night&hide_border=true&area=true"
+  alt="GitHub contribution activity graph"
+  width="100%"
+/>
+
+<br />
+
+<img
+  src="./assets/github-contribution-grid-snake.svg"
+  alt="GitHub contribution grid snake animation"
+  width="100%"
+/>
+
+</div>
 
 ## About Me
 
@@ -256,23 +300,6 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
     </td>
   </tr>
 </table>
-
-## GitHub Statistics
-
-<img src="./assets/github-top-langs.svg" alt="Top languages" width="100%" />
-
-<br />
-<br />
-
-</div>
-
-## Contribution Graph
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rencaldas&theme=github-compact&hide_border=true&area=true"
-  alt="Contribution graph"
-  width="100%"
-/>
 
 ## Quote
 
