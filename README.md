@@ -11,11 +11,6 @@ The rest of the profile is wired to work out of the box.
 
 <br />
 
-<img
-  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=500&speed=45&color=5EEAD4&center=true&vCenter=true&multiline=true&width=920&height=150&lines=Systems+Analyst;Computer+Science+Student;Cloud+Enthusiast;Backend+Developer;Automation+Engineer;Software+Engineer;Continuous+Learner"
-  alt="Typing animation"
-/>
-
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcaldas/)
