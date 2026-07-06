@@ -1,1 +1,69 @@
-<svg viewBox="-16 -32 48 96" width="48" height="96" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc><style>@keyframes s0{0%{transform:translate(0,-16px)}}@keyframes s1{0%{transform:translate(16px,-16px)}}@keyframes s2{0%{transform:translate(32px,-16px)}}@keyframes s3{0%{transform:translate(48px,-16px)}}:root{--cb:#1b1f230a;--cs:purple;--ce:#ebedf0;--c0:#ebedf0;--c1:#9be9a8;--c2:#40c463;--c3:#30a14e;--c4:#216e39}@media (prefers-color-scheme:dark){:root{--cb:#1b1f230a;--cs:purple;--ce:#161b22;--c1:#01311f;--c2:#034525;--c3:#0f6d31;--c4:#00c647}}.c{shape-rendering:geometricPrecision;fill:var(--ce);stroke-width:1px;stroke:var(--cb);animation:none 100ms linear infinite}.s,.u{animation:none linear 100ms infinite}.u{transform-origin:0 0;transform:scale(0,1)}.s{shape-rendering:geometricPrecision;fill:var(--cs)}.s.s0{transform:translate(0,-16px);animation-name:s0}.s.s1{transform:translate(16px,-16px);animation-name:s1}.s.s2{transform:translate(32px,-16px);animation-name:s2}.s.s3{transform:translate(48px,-16px);animation-name:s3}</style><rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/><rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="4.1" ry="4.1"/><rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/><rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3"/></svg>
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub contribution snake placeholder</title>
+  <desc id="desc">Valid full-width fallback for the contribution snake asset. The GitHub Actions workflow regenerates this file with live contribution data.</desc>
+  <defs>
+    <linearGradient id="snake" x1="120" y1="90" x2="1080" y2="90" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" />
+      <stop offset="0.5" stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#A855F7" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" rx="18" fill="#0F172A" />
+  <g opacity="0.85">
+    <rect x="52" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="74" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="96" y="42" width="14" height="14" rx="3" fill="#164E63" />
+    <rect x="118" y="42" width="14" height="14" rx="3" fill="#0E7490" />
+    <rect x="140" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="162" y="42" width="14" height="14" rx="3" fill="#155E75" />
+    <rect x="184" y="42" width="14" height="14" rx="3" fill="#22D3EE" />
+    <rect x="206" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="228" y="42" width="14" height="14" rx="3" fill="#0E7490" />
+    <rect x="250" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="272" y="42" width="14" height="14" rx="3" fill="#164E63" />
+    <rect x="294" y="42" width="14" height="14" rx="3" fill="#38BDF8" />
+    <rect x="316" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="338" y="42" width="14" height="14" rx="3" fill="#164E63" />
+    <rect x="360" y="42" width="14" height="14" rx="3" fill="#0E7490" />
+    <rect x="382" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="404" y="42" width="14" height="14" rx="3" fill="#155E75" />
+    <rect x="426" y="42" width="14" height="14" rx="3" fill="#22D3EE" />
+    <rect x="448" y="42" width="14" height="14" rx="3" fill="#164E63" />
+    <rect x="470" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="492" y="42" width="14" height="14" rx="3" fill="#0E7490" />
+    <rect x="514" y="42" width="14" height="14" rx="3" fill="#38BDF8" />
+    <rect x="536" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="558" y="42" width="14" height="14" rx="3" fill="#164E63" />
+    <rect x="580" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="602" y="42" width="14" height="14" rx="3" fill="#0E7490" />
+    <rect x="624" y="42" width="14" height="14" rx="3" fill="#22D3EE" />
+    <rect x="646" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="668" y="42" width="14" height="14" rx="3" fill="#164E63" />
+    <rect x="690" y="42" width="14" height="14" rx="3" fill="#155E75" />
+    <rect x="712" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="734" y="42" width="14" height="14" rx="3" fill="#0E7490" />
+    <rect x="756" y="42" width="14" height="14" rx="3" fill="#38BDF8" />
+    <rect x="778" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="800" y="42" width="14" height="14" rx="3" fill="#164E63" />
+    <rect x="822" y="42" width="14" height="14" rx="3" fill="#22D3EE" />
+    <rect x="844" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="866" y="42" width="14" height="14" rx="3" fill="#155E75" />
+    <rect x="888" y="42" width="14" height="14" rx="3" fill="#0E7490" />
+    <rect x="910" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="932" y="42" width="14" height="14" rx="3" fill="#164E63" />
+    <rect x="954" y="42" width="14" height="14" rx="3" fill="#38BDF8" />
+    <rect x="976" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="998" y="42" width="14" height="14" rx="3" fill="#0E7490" />
+    <rect x="1020" y="42" width="14" height="14" rx="3" fill="#22D3EE" />
+    <rect x="1042" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="1064" y="42" width="14" height="14" rx="3" fill="#155E75" />
+    <rect x="1086" y="42" width="14" height="14" rx="3" fill="#0E7490" />
+    <rect x="1108" y="42" width="14" height="14" rx="3" fill="#1F2937" />
+    <rect x="1130" y="42" width="14" height="14" rx="3" fill="#164E63" />
+  </g>
+  <path d="M80 116C180 84 258 134 358 104C456 75 546 82 640 112C748 147 804 76 906 94C978 107 1028 133 1120 92" stroke="url(#snake)" stroke-width="14" stroke-linecap="round" />
+  <circle cx="1120" cy="92" r="18" fill="#A855F7" />
+  <circle cx="1126" cy="86" r="3" fill="#F8FAFC" />
+  <circle cx="1127" cy="98" r="3" fill="#F8FAFC" />
+  <text x="52" y="150" fill="#94A3B8" font-size="16" font-family="Inter, Segoe UI, Arial, sans-serif">Contribution snake fallback. GitHub Actions will replace this with the live contribution grid.</text>
+</svg>

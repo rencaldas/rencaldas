@@ -21,13 +21,15 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate snake SVG from the contribution graph
-        uses: Platane/snk/svg-only@v1
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: assets/github-contribution-grid-snake.svg
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Commit updated snake asset
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update contribution snake"
-          file_pattern: assets/github-contribution-grid-snake.svg
+          file_pattern: assets/github-contribution-grid-snake*.svg
