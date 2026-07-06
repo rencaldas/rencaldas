@@ -1,8 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 28" role="img" aria-labelledby="title desc">
   <title id="title">LinkedIn logo</title>
-  <desc id="desc">Blue rounded square with the LinkedIn wordmark symbol.</desc>
-  <rect width="24" height="24" rx="4.5" fill="#0A66C2"/>
-  <circle cx="6.25" cy="7" r="1.35" fill="#FFFFFF"/>
-  <rect x="5.05" y="9.2" width="2.4" height="9.1" rx="1.2" fill="#FFFFFF"/>
-  <path d="M10.25 9.2h2.3v1.24c.53-.88 1.56-1.44 2.84-1.44 2.38 0 3.61 1.56 3.61 4.62v4.66h-2.4v-4.17c0-1.76-.58-2.77-1.97-2.77-1.43 0-2.08 1.02-2.08 2.77v4.17h-2.3V9.2Z" fill="#FFFFFF"/>
+  <desc id="desc">LinkedIn icon followed by the LinkedIn name on a transparent background.</desc>
+  <g transform="translate(2 2)">
+    <rect x="0" y="0" width="24" height="24" rx="4.5" fill="#0A66C2"/>
+    <circle cx="6.25" cy="7" r="1.35" fill="#FFFFFF"/>
+    <rect x="5.05" y="9.2" width="2.4" height="9.1" rx="1.2" fill="#FFFFFF"/>
+    <path d="M10.25 9.2h2.3v1.24c.53-.88 1.56-1.44 2.84-1.44 2.38 0 3.61 1.56 3.61 4.62v4.66h-2.4v-4.17c0-1.76-.58-2.77-1.97-2.77-1.43 0-2.08 1.02-2.08 2.77v4.17h-2.3V9.2Z" fill="#FFFFFF"/>
+  </g>
+  <text x="36" y="18.5" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="0.1">LinkedIn</text>
 </svg>
