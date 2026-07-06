@@ -22,9 +22,6 @@
 <a href="https://your-portfolio.example.com" target="_blank" rel="external noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://your-blog.example.com" target="_blank" rel="external noopener noreferrer">
-  <img src="https://img.shields.io/badge/Blog-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
-</a>
 
 </div>
 
@@ -302,7 +299,7 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 <br />
 <br />
 
-[LinkedIn](https://www.linkedin.com/in/rcaldas/) | [GitHub](https://github.com/rencaldas) | [Email](mailto:YOUR_EMAIL@example.com) | [Portfolio](https://your-portfolio.example.com) | [Blog](https://your-blog.example.com)
+[LinkedIn](https://www.linkedin.com/in/rcaldas/) | [GitHub](https://github.com/rencaldas) | [Email](mailto:YOUR_EMAIL@example.com) | [Portfolio](https://your-portfolio.example.com)
 
 </div>
 
@@ -310,4 +307,3 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 [github]: https://github.com/rencaldas
 [email]: mailto:YOUR_EMAIL@example.com
 [portfolio]: https://your-portfolio.example.com
-[blog]: https://your-blog.example.com
