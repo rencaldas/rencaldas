@@ -20,8 +20,8 @@ The rest of the profile is wired to work out of the box.
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcaldas/)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rencaldas)
+[![Email](https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato.deacaldas@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.example.com)
 [![Blog](https://img.shields.io/badge/Blog-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-blog.example.com)
 
