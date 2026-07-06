@@ -60,17 +60,15 @@
       <path d="M1480 66V454" stroke="#94A3B8" stroke-width="1" />
     </g>
 
-    <g filter="url(#softGlow)">
-      <text x="120" y="212" fill="#F8FAFC" font-size="66" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0.4">
-        Renato Azevedo Caldas
-      </text>
-      <text x="120" y="268" fill="#B8C3D8" font-size="30" font-weight="500" font-family="Inter, Segoe UI, Arial, sans-serif">
-        Systems Analyst  |  Cloud Computing  |  Automation  |  Software Engineering
-      </text>
-      <text x="120" y="322" fill="#7DD3FC" font-size="22" font-weight="600" font-family="Fira Code, Consolas, monospace">
-        Building enterprise software solutions through integration and reliability.
-      </text>
-    </g>
+    <text x="120" y="212" fill="#F8FAFC" font-size="66" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0.4">
+      Renato Azevedo Caldas
+    </text>
+    <text x="120" y="268" fill="#B8C3D8" font-size="30" font-weight="500" font-family="Inter, Segoe UI, Arial, sans-serif">
+      Systems Analyst  |  Cloud Computing  |  Automation  |  Software Engineering
+    </text>
+    <text x="120" y="322" fill="#7DD3FC" font-size="22" font-weight="600" font-family="Fira Code, Consolas, monospace">
+      Building enterprise software solutions through integration and reliability.
+    </text>
 
     <g opacity="0.9">
       <rect x="120" y="360" width="214" height="58" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.32" />

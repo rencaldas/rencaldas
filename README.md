@@ -1,6 +1,5 @@
 <!--
-Update these placeholders once:
-- YOUR_GITHUB_USERNAME
+Update these social links once:
 - LinkedIn / email / portfolio / blog links
 
 The rest of the profile is wired to work out of the box.
@@ -13,7 +12,7 @@ The rest of the profile is wired to work out of the box.
 <br />
 
 <img
-  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=5EEAD4&center=true&vCenter=true&multiline=true&width=920&height=150&lines=Systems+Analyst;Computer+Science+Student;Cloud+Enthusiast;Backend+Developer;Automation+Engineer;Software+Engineer;Continuous+Learner"
+  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=500&speed=45&color=5EEAD4&center=true&vCenter=true&multiline=true&width=920&height=150&lines=Systems+Analyst;Computer+Science+Student;Cloud+Enthusiast;Backend+Developer;Automation+Engineer;Software+Engineer;Continuous+Learner"
   alt="Typing animation"
 />
 
@@ -21,7 +20,7 @@ The rest of the profile is wired to work out of the box.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcaldas/)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rencaldas)
-[![Email](https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato.deacaldas@gmail.com)
+[![Email](https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.example.com)
 [![Blog](https://img.shields.io/badge/Blog-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-blog.example.com)
 
@@ -123,8 +122,8 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42" />
@@ -238,13 +237,13 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=CBD5E1&icon_color=38BDF8" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=CBD5E1" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rencaldas&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=CBD5E1&icon_color=38BDF8" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rencaldas&layout=compact&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=CBD5E1" alt="Top languages" />
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&stroke=5EEAD4&ring=38BDF8&fire=F97316&currStreakLabel=5EEAD4" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com/?user=rencaldas&theme=transparent&hide_border=true&stroke=5EEAD4&ring=38BDF8&fire=F97316&currStreakLabel=5EEAD4" alt="GitHub streak stats" />
 
 <br />
 <br />
@@ -254,14 +253,14 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 <br />
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rencaldas&theme=onedark&no-frame=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
 </div>
 
 ## Contribution Graph
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rencaldas&theme=github-compact&hide_border=true&area=true"
   alt="Contribution graph"
   width="100%"
 />
@@ -286,7 +285,7 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile visitor counter" />
+<img src="https://komarev.com/ghpvc/?username=rencaldas&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile visitor counter" />
 
 </div>
 
@@ -299,12 +298,12 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 <br />
 <br />
 
-[LinkedIn](https://www.linkedin.com/in/rcaldas/) | [GitHub](https://github.com/YOUR_GITHUB_USERNAME) | [Email](mailto:YOUR_EMAIL@example.com) | [Portfolio](https://your-portfolio.example.com) | [Blog](https://your-blog.example.com)
+[LinkedIn](https://www.linkedin.com/in/rcaldas/) | [GitHub](https://github.com/rencaldas) | [Email](mailto:YOUR_EMAIL@example.com) | [Portfolio](https://your-portfolio.example.com) | [Blog](https://your-blog.example.com)
 
 </div>
 
 [linkedin]: https://www.linkedin.com/in/rcaldas/
-[github]: https://github.com/YOUR_GITHUB_USERNAME
+[github]: https://github.com/rencaldas
 [email]: mailto:YOUR_EMAIL@example.com
 [portfolio]: https://your-portfolio.example.com
 [blog]: https://your-blog.example.com
