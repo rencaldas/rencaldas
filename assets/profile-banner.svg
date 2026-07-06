@@ -1,0 +1,37 @@
+<svg width="1600" height="220" viewBox="0 0 1600 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile banner separator</title>
+  <desc id="desc">Subtle dark separator with blue, cyan and purple lighting.</desc>
+  <defs>
+    <linearGradient id="line" x1="120" y1="110" x2="1480" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" />
+      <stop offset="0.5" stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#A855F7" />
+    </linearGradient>
+    <radialGradient id="orb1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 82) rotate(90) scale(120 220)">
+      <stop stop-color="#22D3EE" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="orb2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1320 138) rotate(90) scale(120 220)">
+      <stop stop-color="#A855F7" stop-opacity="0.36" />
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0" />
+    </radialGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18" />
+    </filter>
+  </defs>
+
+  <rect width="1600" height="220" rx="28" fill="#060B17" />
+  <rect width="1600" height="220" rx="28" fill="url(#orb1)" filter="url(#blur)" />
+  <rect width="1600" height="220" rx="28" fill="url(#orb2)" filter="url(#blur)" />
+  <path d="M120 110H1480" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" opacity="0.9" />
+  <path d="M120 110H1480" stroke="#E2E8F0" stroke-width="0.7" stroke-dasharray="2 10" opacity="0.28">
+    <animate attributeName="stroke-dashoffset" from="0" to="120" dur="12s" repeatCount="indefinite" />
+  </path>
+  <g fill="#CBD5E1" opacity="0.65">
+    <circle cx="220" cy="110" r="4" />
+    <circle cx="1380" cy="110" r="4" />
+    <circle cx="800" cy="110" r="5" />
+  </g>
+  <text x="120" y="72" fill="#F8FAFC" font-size="26" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">Enterprise software, cloud, automation, and systems integration.</text>
+  <text x="120" y="156" fill="#94A3B8" font-size="18" font-weight="500" font-family="Inter, Segoe UI, Arial, sans-serif">Built for clarity, maintainability, and operational impact.</text>
+</svg>

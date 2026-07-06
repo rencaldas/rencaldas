@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub metrics placeholder</title>
+  <desc id="desc">Placeholder metrics card that will be replaced by the GitHub Actions workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816" />
+      <stop offset="1" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="accent" x1="140" y1="120" x2="1040" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" />
+      <stop offset="0.5" stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#A855F7" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="620" rx="24" fill="url(#bg)" />
+  <rect x="44" y="44" width="1112" height="532" rx="20" fill="#0B1224" stroke="url(#accent)" stroke-opacity="0.35" />
+  <circle cx="1020" cy="170" r="130" fill="#A855F7" opacity="0.14" />
+  <circle cx="200" cy="440" r="150" fill="#22D3EE" opacity="0.12" />
+  <text x="80" y="156" fill="#F8FAFC" font-size="42" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">GitHub Metrics</text>
+  <text x="80" y="214" fill="#94A3B8" font-size="24" font-family="Inter, Segoe UI, Arial, sans-serif">This placeholder is replaced automatically by the workflow.</text>
+  <rect x="80" y="278" width="1040" height="14" rx="7" fill="#1F2937" />
+  <rect x="80" y="278" width="620" height="14" rx="7" fill="url(#accent)">
+    <animate attributeName="width" values="500;820;500" dur="6s" repeatCount="indefinite" />
+  </rect>
+  <g fill="#CBD5E1" font-family="Fira Code, Consolas, monospace" font-size="20">
+    <text x="80" y="360">Profile insights, coding habits, and activity cards are rendered here.</text>
+    <text x="80" y="404">Connect the repository secret and the daily workflow keeps this image updated.</text>
+  </g>
+  <g>
+    <rect x="80" y="456" width="240" height="72" rx="18" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.3" />
+    <rect x="344" y="456" width="240" height="72" rx="18" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.3" />
+    <rect x="608" y="456" width="240" height="72" rx="18" fill="#0F172A" stroke="#A855F7" stroke-opacity="0.3" />
+  </g>
+</svg>

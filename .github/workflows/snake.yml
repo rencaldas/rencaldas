@@ -1,0 +1,33 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    # Refresh the snake once per day.
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG from the contribution graph
+        uses: Platane/snk/svg-only@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: assets/github-contribution-grid-snake.svg
+
+      - name: Commit updated snake asset
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contribution snake"
+          file_pattern: assets/github-contribution-grid-snake.svg

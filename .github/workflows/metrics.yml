@@ -1,0 +1,28 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    # Keep the metrics card fresh and stable.
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Render profile metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: ${{ github.repository_owner }}
+          filename: assets/github-metrics.svg

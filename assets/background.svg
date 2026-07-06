@@ -1,0 +1,47 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract background</title>
+  <desc id="desc">Dark layered background with subtle grid, dots, and gradient waves.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#040816" />
+      <stop offset="0.55" stop-color="#09111E" />
+      <stop offset="1" stop-color="#111827" />
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(300 180) rotate(110) scale(260 220)">
+      <stop stop-color="#22D3EE" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="purpleGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1320 700) rotate(75) scale(320 260)">
+      <stop stop-color="#A855F7" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M 64 0 H 0 V 64" stroke="#94A3B8" stroke-opacity="0.08" stroke-width="1" />
+    </pattern>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18" />
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)" />
+  <rect width="1600" height="900" fill="url(#grid)" opacity="0.55" />
+  <rect width="1600" height="900" fill="url(#cyanGlow)" filter="url(#blur)" />
+  <rect width="1600" height="900" fill="url(#purpleGlow)" filter="url(#blur)" />
+
+  <path d="M-40 650C220 530 420 520 650 580C880 640 1080 740 1320 700C1440 680 1540 630 1680 560" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="2" />
+  <path d="M-60 710C180 620 420 600 660 642C900 684 1100 800 1360 770C1480 756 1560 724 1700 660" stroke="#A855F7" stroke-opacity="0.22" stroke-width="2" stroke-dasharray="8 12">
+    <animate attributeName="stroke-dashoffset" from="0" to="180" dur="14s" repeatCount="indefinite" />
+  </path>
+
+  <g fill="#E2E8F0" opacity="0.06">
+    <circle cx="180" cy="120" r="3" />
+    <circle cx="290" cy="180" r="2" />
+    <circle cx="420" cy="90" r="2.5" />
+    <circle cx="1210" cy="140" r="3" />
+    <circle cx="1320" cy="220" r="2.5" />
+    <circle cx="1450" cy="110" r="2" />
+    <circle cx="980" cy="760" r="3" />
+    <circle cx="1110" cy="820" r="2.5" />
+    <circle cx="1460" cy="760" r="3" />
+  </g>
+</svg>

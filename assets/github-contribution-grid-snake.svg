@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution snake placeholder</title>
+  <desc id="desc">Placeholder snake animation that will be replaced by the GitHub Actions workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816" />
+      <stop offset="1" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="snake" x1="120" y1="110" x2="1080" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" />
+      <stop offset="0.5" stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#A855F7" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="24" fill="url(#bg)" />
+  <path d="M120 110H1080" stroke="#1F2937" stroke-width="18" stroke-linecap="round" />
+  <path d="M120 110H620" stroke="url(#snake)" stroke-width="18" stroke-linecap="round">
+    <animate attributeName="x2" values="360;900;360" dur="5s" repeatCount="indefinite" />
+  </path>
+  <circle cx="620" cy="110" r="16" fill="#E2E8F0">
+    <animate attributeName="cx" values="360;900;360" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <text x="80" y="58" fill="#F8FAFC" font-size="26" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Contribution Snake</text>
+  <text x="80" y="188" fill="#94A3B8" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif">Automatically generated every day by GitHub Actions.</text>
+</svg>
