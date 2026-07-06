@@ -10,7 +10,7 @@
 />
 <br />
 
-<a href="https://www.linkedin.com/in/rcaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
+<a href="https://www.linkedin.com/in/rencaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/rencaldas" target="_blank" rel="external noopener noreferrer">
@@ -299,7 +299,7 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 <br />
 <br />
 
-<a href="https://www.linkedin.com/in/rcaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:6px; text-decoration:none;">
+<a href="https://www.linkedin.com/in/rencaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:6px; text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a> | [GitHub](https://github.com/rencaldas) | [Email](mailto:YOUR_EMAIL@example.com) | [Portfolio](https://your-portfolio.example.com)
 
