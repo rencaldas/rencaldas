@@ -163,19 +163,21 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 ## Professional Experience
 
 ### Systems Analyst Intern, Ramada Atacadista
+*Jun 2026 - Present | Rio de Janeiro, RJ, Brazil | On-site*
 
-- Enterprise systems analysis with a focus on business enablement, reliability, and process improvement.
-- Internal web applications and mobile applications supporting operational workflows.
-- n8n automations, REST APIs, and database analysis for better data flow and integration.
-- Oracle, AWS, ERP Sankhya, ERP SAP, and Power BI support aligned with business needs.
-- SCRUM participation, requirements analysis, technical documentation, SQL, and production support.
-- Infrastructure awareness across hardware, networking, and operational continuity.
+- Developed and implemented improvements in internal systems, website features, mobile applications, n8n workflows, and Sankhya ERP, helping automate processes and improve operational efficiency and user experience.
+- Performed Oracle and AWS database analysis, identifying table inconsistencies and API integration issues, while supporting fixes in production environments.
+- Provided technical support through GLPI, resolving tickets related to software, hardware, printers, equipment maintenance, and end-user support.
+- Executed installation, configuration, maintenance, and replacement of IT equipment, including UPS units, computers, and peripherals.
+- Participated in planning meetings, sprints, and Scrum ceremonies, collaborating with development teams on improvements, requirements gathering, and problem solving.
 
-### Engineering Mindset
+### Administrative Assistant, Multiplan Empreendimentos S.A.
+*Sep 2023 - Aug 2025 | Rio de Janeiro, Brazil | On-site*
 
-- I translate business problems into technical solutions instead of treating systems work as simple support.
-- I prioritize automation, observability, data quality, and maintainable integrations.
-- I work across application, data, and infrastructure layers to support enterprise operations.
+- Supported administrative and operational teams through document control and internal service requests.
+- Managed end-to-end request registration and tracking in SAP GUI, ensuring process compliance and traceability.
+- Analyzed and maintained Excel spreadsheets, creating automations that reduced manual work and increased team productivity by approximately 50%.
+- Worked across administrative workflows for BarraShopping and New York City Center, supporting business operations with accuracy and organization.
 
 ## Education
 
@@ -260,24 +262,7 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 
 ## GitHub Statistics
 
-<div align="center">
-
-<img src="./assets/github-metrics.svg" alt="GitHub stats" width="100%" />
-
-<br />
-<br />
-
 <img src="./assets/github-top-langs.svg" alt="Top languages" width="100%" />
-
-<br />
-<br />
-
-<img src="./assets/github-streak.svg" alt="GitHub streak stats" width="100%" />
-
-<br />
-<br />
-
-<img src="./assets/github-trophies.svg" alt="GitHub trophies" width="100%" />
 
 <br />
 <br />
