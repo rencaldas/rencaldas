@@ -1,10 +1,3 @@
-<!--
-Update these social links once:
-- LinkedIn / email / portfolio / blog links
-
-The rest of the profile is wired to work out of the box.
--->
-
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Renato Azevedo Caldas profile banner" width="100%" />
@@ -34,6 +27,7 @@ The rest of the profile is wired to work out of the box.
 </a>
 
 </div>
+
 
 <img src="./assets/profile-banner.svg" alt="Decorative profile banner" width="100%" />
 
@@ -295,14 +289,6 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
   alt="Contribution graph"
   width="100%"
 />
-
-## Snake Animation
-
-<div align="center">
-
-<img src="./assets/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
-
-</div>
 
 ## Quote
 
