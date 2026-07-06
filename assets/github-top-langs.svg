@@ -1,0 +1,38 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Top languages</title>
+  <desc id="desc">Local top languages card based on the public rencaldas GitHub repositories.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816" />
+      <stop offset="1" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="bar" x1="260" y1="0" x2="1040" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" />
+      <stop offset="0.5" stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#A855F7" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" rx="24" fill="url(#bg)" />
+  <rect x="42" y="42" width="1116" height="336" rx="22" fill="#0B1224" stroke="url(#bar)" stroke-opacity="0.35" />
+
+  <text x="78" y="118" fill="#F8FAFC" font-size="38" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">Top Languages</text>
+  <text x="78" y="160" fill="#94A3B8" font-size="20" font-family="Inter, Segoe UI, Arial, sans-serif">Based on your public repositories: Python 3, TypeScript 1, HTML 1</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="78" y="232" fill="#CBD5E1" font-size="20" font-weight="700">Python</text>
+    <rect x="240" y="214" width="760" height="22" rx="11" fill="#1F2937" />
+    <rect x="240" y="214" width="456" height="22" rx="11" fill="#3776AB" />
+    <text x="1020" y="232" fill="#CBD5E1" font-size="18">3 repos</text>
+
+    <text x="78" y="286" fill="#CBD5E1" font-size="20" font-weight="700">TypeScript</text>
+    <rect x="240" y="268" width="760" height="22" rx="11" fill="#1F2937" />
+    <rect x="240" y="268" width="152" height="22" rx="11" fill="#3178C6" />
+    <text x="1020" y="286" fill="#CBD5E1" font-size="18">1 repo</text>
+
+    <text x="78" y="340" fill="#CBD5E1" font-size="20" font-weight="700">HTML</text>
+    <rect x="240" y="322" width="760" height="22" rx="11" fill="#1F2937" />
+    <rect x="240" y="322" width="152" height="22" rx="11" fill="#E34F26" />
+    <text x="1020" y="340" fill="#CBD5E1" font-size="18">1 repo</text>
+  </g>
+</svg>

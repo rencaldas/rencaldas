@@ -37,22 +37,22 @@ I am Renato Azevedo Caldas, a Systems Analyst intern in Rio de Janeiro focused o
 
 I study Computer Science at Veiga de Almeida University, with graduation expected in 2027, and I enjoy turning business requirements into reliable technical solutions for internal teams and production environments.
 
-<table width="100%" align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table width="100%" style="width:100%; border-collapse:collapse;">
   <tr>
-    <td align="center"><strong>Location</strong></td>
-    <td align="center">Rio de Janeiro, Brazil</td>
+    <td><strong>Location</strong></td>
+    <td>Rio de Janeiro, Brazil</td>
   </tr>
   <tr>
-    <td align="center"><strong>Role</strong></td>
-    <td align="center">Systems Analyst Intern at Ramada Atacadista</td>
+    <td><strong>Role</strong></td>
+    <td>Systems Analyst Intern at Ramada Atacadista</td>
   </tr>
   <tr>
-    <td align="center"><strong>Focus</strong></td>
-    <td align="center">Cloud Computing, Software Engineering, Automation, Databases, Platform Engineering</td>
+    <td><strong>Focus</strong></td>
+    <td>Cloud Computing, Software Engineering, Automation, Databases, Platform Engineering</td>
   </tr>
   <tr>
-    <td align="center"><strong>Education</strong></td>
-    <td align="center">Bachelor's Degree in Computer Science, Veiga de Almeida University, expected 2027</td>
+    <td><strong>Education</strong></td>
+    <td>Bachelor's Degree in Computer Science, Veiga de Almeida University, expected 2027</td>
   </tr>
 </table>
 
@@ -179,59 +179,59 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 
 ## Education
 
-<table width="100%" align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table width="100%" style="width:100%; border-collapse:collapse;">
   <tr>
-    <td align="center"><strong>Institution</strong></td>
-    <td align="center"><strong>Program</strong></td>
-    <td align="center"><strong>Status</strong></td>
+    <td><strong>Institution</strong></td>
+    <td><strong>Program</strong></td>
+    <td><strong>Status</strong></td>
   </tr>
   <tr>
-    <td align="center">Veiga de Almeida University</td>
-    <td align="center">Bachelor's Degree in Computer Science</td>
-    <td align="center">Expected 2027</td>
+    <td>Veiga de Almeida University</td>
+    <td>Bachelor's Degree in Computer Science</td>
+    <td>Expected 2027</td>
   </tr>
 </table>
 
 ## Certifications
 
-<table width="100%" align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table width="100%" style="width:100%; border-collapse:collapse;">
   <tr>
-    <td align="center"><strong>Certification</strong></td>
-    <td align="center"><strong>Area</strong></td>
+    <td><strong>Certification</strong></td>
+    <td><strong>Area</strong></td>
   </tr>
   <tr>
-    <td align="center">Power BI Complete</td>
-    <td align="center">Analytics</td>
+    <td>Power BI Complete</td>
+    <td>Analytics</td>
   </tr>
   <tr>
-    <td align="center">Power BI Data Modeling</td>
-    <td align="center">Analytics</td>
+    <td>Power BI Data Modeling</td>
+    <td>Analytics</td>
   </tr>
   <tr>
-    <td align="center">Python</td>
-    <td align="center">Programming</td>
+    <td>Python</td>
+    <td>Programming</td>
   </tr>
   <tr>
-    <td align="center">Programming Logic</td>
-    <td align="center">Fundamentals</td>
+    <td>Programming Logic</td>
+    <td>Fundamentals</td>
   </tr>
   <tr>
-    <td align="center">C Programming</td>
-    <td align="center">Programming</td>
+    <td>C Programming</td>
+    <td>Programming</td>
   </tr>
   <tr>
-    <td align="center">TOEFL Junior Gold</td>
-    <td align="center">English</td>
+    <td>TOEFL Junior Gold</td>
+    <td>English</td>
   </tr>
   <tr>
-    <td align="center">BRASAS English</td>
-    <td align="center">English</td>
+    <td>BRASAS English</td>
+    <td>English</td>
   </tr>
 </table>
 
 ## Featured Projects
 
-<table width="100%" align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table width="100%" style="width:100%; border-collapse:collapse;">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center" style="margin:0 0 8px 0;"><a href="https://github.com/rencaldas/seslock-holmes" target="_blank" rel="external noopener noreferrer">seslock-holmes</a></h3>
@@ -262,23 +262,25 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rencaldas&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=CBD5E1&icon_color=38BDF8&cache_seconds=1800" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rencaldas&layout=compact&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=CBD5E1&cache_seconds=1800" alt="Top languages" />
+<img src="./assets/github-metrics.svg" alt="GitHub stats" width="100%" />
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=rencaldas&theme=transparent&hide_border=true&stroke=5EEAD4&ring=38BDF8&fire=F97316&currStreakLabel=5EEAD4" alt="GitHub streak stats" />
+<img src="./assets/github-top-langs.svg" alt="Top languages" width="100%" />
 
 <br />
 <br />
 
-<img src="./assets/github-metrics.svg" alt="GitHub metrics" width="100%" />
+<img src="./assets/github-streak.svg" alt="GitHub streak stats" width="100%" />
 
 <br />
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=rencaldas&theme=onedark&no-frame=true&margin-w=8&margin-h=8&column=4&row=2" alt="GitHub trophies" />
+<img src="./assets/github-trophies.svg" alt="GitHub trophies" width="100%" />
+
+<br />
+<br />
 
 </div>
 
