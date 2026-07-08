@@ -1,18 +1,18 @@
-<svg width="1600" height="320" viewBox="0 0 1600 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1020" height="320" viewBox="0 0 1020 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Renato de Azevedo Caldas profile banner</title>
-  <desc id="desc">Dark modern banner with blue, cyan and purple gradients, text on the left, and real-time GitHub contribution graph on the right.</desc>
+  <desc id="desc">Dark modern banner with blue, cyan and purple gradients, text content adjusted for the left block.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="320" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1020" y2="320" gradientUnits="userSpaceOnUse">
       <stop stop-color="#050816" />
       <stop offset="0.55" stop-color="#0B1224" />
       <stop offset="1" stop-color="#111827" />
     </linearGradient>
-    <linearGradient id="accent" x1="240" y1="40" x2="1360" y2="280" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent" x1="240" y1="40" x2="1020" y2="280" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22D3EE" />
       <stop offset="0.5" stop-color="#38BDF8" />
       <stop offset="1" stop-color="#A855F7" />
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1400 80) rotate(140) scale(300 180)">
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(900 80) rotate(140) scale(300 180)">
       <stop stop-color="#A855F7" stop-opacity="0.4" />
       <stop offset="1" stop-color="#A855F7" stop-opacity="0" />
     </radialGradient>
@@ -24,17 +24,17 @@
       <feGaussianBlur stdDeviation="24" />
     </filter>
     <clipPath id="clip">
-      <rect width="1600" height="320" rx="20" />
+      <rect width="1020" height="320" rx="20" />
     </clipPath>
   </defs>
 
   <g clip-path="url(#clip)">
     <!-- Planos de Fundo com Brilho Dinâmico -->
-    <rect width="1600" height="320" fill="url(#bg)" />
-    <rect width="1600" height="320" fill="url(#glow)" filter="url(#blur)">
+    <rect width="1020" height="320" fill="url(#bg)" />
+    <rect width="1020" height="320" fill="url(#glow)" filter="url(#blur)">
       <animate attributeName="opacity" values="0.55;0.85;0.55" dur="8s" repeatCount="indefinite" />
     </rect>
-    <rect width="1600" height="320" fill="url(#glow2)" filter="url(#blur)">
+    <rect width="1020" height="320" fill="url(#glow2)" filter="url(#blur)">
       <animate attributeName="opacity" values="0.45;0.65;0.45" dur="9s" repeatCount="indefinite" />
     </rect>
 
@@ -44,7 +44,7 @@
       <animate attributeName="stroke-dashoffset" from="0" to="120" dur="9s" repeatCount="indefinite" />
     </path>
 
-    <!-- Moldura Geométrica Sutil à Esquerda (Envolvendo o texto) -->
+    <!-- Moldura Geométrica Sutil à Esquerda -->
     <g opacity="0.12">
       <path d="M60 35H960" stroke="#94A3B8" stroke-width="1" />
       <path d="M60 285H960" stroke="#94A3B8" stroke-width="1" />
@@ -62,15 +62,5 @@
     <text x="90" y="215" fill="#7DD3FC" font-size="18" font-weight="600" font-family="Fira Code, Consolas, monospace">
       Building enterprise software solutions through integration and reliability.
     </text>
-
-    <!-- GITHUB GRAPH FIX (Usando exatamente a URL proxy do Camo que o GitHub exige para renderizar em Readmes de perfil) -->
-    <image 
-      href="https://camo.githubusercontent.com/b0e4a9dd3011aaba5b626d613907d1180aba2d7175139e3af11b8efb46226fa3/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d72656e63616c646173267468656d653d746f6b796f2d6e6967687426686964655f626f726465723d7472756526617265613d74727565" 
-      x="1000" 
-      y="25" 
-      width="540" 
-      height="270" 
-      preserveAspectRatio="xMidYMid meet" 
-    />
   </g>
 </svg>
