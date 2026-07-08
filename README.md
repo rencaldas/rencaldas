@@ -30,7 +30,7 @@
 
 ## About Me
 
-I am Renato Azevedo Caldas, a 21-year-old Systems Analyst intern in Rio de Janeiro focused on building enterprise software that improves operations through cloud, automation, backend development, and systems integration.
+I am Renato de Azevedo Caldas, a 21-year-old Systems Analyst intern in Rio de Janeiro focused on building enterprise software that improves operations through cloud, automation, backend development, and systems integration.
 
 I study Computer Science at Veiga de Almeida University, with graduation expected in 2027, and I enjoy turning business requirements into reliable technical solutions for internal teams and production environments.
 
