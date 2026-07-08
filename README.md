@@ -53,8 +53,6 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 
 <div align="center">
 
-<strong>Let's build enterprise software that makes operations simpler, faster, and more intelligent.</strong>
-
 <br />
 <br />
 
