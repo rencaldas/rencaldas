@@ -3,7 +3,7 @@
 <img src="./assets/banner.svg" alt="Renato Azevedo Caldas profile banner" width="100%" />
 
 <br>
-
+<img src="https://komarev.com/ghpvc/?username=rencaldas&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile visitor counter" />
 <a href="https://www.linkedin.com/in/rencaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -16,11 +16,6 @@
 <a href="https://rencaldas.github.io/" target="_blank" rel="external noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rencaldas&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile visitor counter" />
-
-</div>
 </div>
 
 <div align="center">
