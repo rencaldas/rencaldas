@@ -4,6 +4,15 @@
 
 <br>
 
+</div>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rencaldas&theme=tokyo-night&hide_border=true&area=true"
+  alt="Renato Azevedo Caldas GitHub activity graph"
+  width="100%"
+/>
 <a href="https://www.linkedin.com/in/rencaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -17,16 +26,6 @@
   <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   <img src="https://komarev.com/ghpvc/?username=rencaldas&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile visitor counter" />
 </a>
-</div>
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rencaldas&theme=tokyo-night&hide_border=true&area=true"
-  alt="Renato Azevedo Caldas GitHub activity graph"
-  width="100%"
-/>
-
 </div>
 
 ## About Me
