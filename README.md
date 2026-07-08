@@ -43,8 +43,6 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 | **Data & Analytics** | ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=databricks&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white) |
 | **Automation & ERP** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square&logo=postman&logoColor=white) ![Webhooks](https://img.shields.io/badge/Webhooks-1E293B?style=flat-square&logo=webhook&logoColor=white) ![SAP ERP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=flat-square&logo=sap&logoColor=white) ![Sankhya ERP](https://img.shields.io/badge/Sankhya_ERP-1F2937?style=flat-square&logo=databricks&logoColor=white) |
 
-## Quote
-
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub quote" />
