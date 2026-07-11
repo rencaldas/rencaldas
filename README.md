@@ -45,7 +45,7 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&random=1" />
 
 </div>
 
@@ -55,7 +55,6 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 
 <br />
 <br />
-
 <a href="https://www.linkedin.com/in/rencaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
