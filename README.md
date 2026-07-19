@@ -74,6 +74,7 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
   <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
+
 </div>
 
 [github]: https://github.com/rencaldas
