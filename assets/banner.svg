@@ -1,66 +1,109 @@
 <svg width="900" height="230" viewBox="0 0 900 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Renato de Azevedo Caldas profile banner</title>
   <desc id="desc">Dark modern banner with blue, cyan and purple gradients, text content tightly fitted to reduce empty space.</desc>
+
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="900" y2="230" gradientUnits="userSpaceOnUse">
       <stop stop-color="#050816" />
       <stop offset="0.55" stop-color="#0B1224" />
       <stop offset="1" stop-color="#111827" />
     </linearGradient>
+
     <linearGradient id="accent" x1="210" y1="30" x2="900" y2="200" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22D3EE" />
       <stop offset="0.5" stop-color="#38BDF8" />
       <stop offset="1" stop-color="#A855F7" />
     </linearGradient>
+
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(790 58) rotate(140) scale(265 130)">
       <stop stop-color="#A855F7" stop-opacity="0.4" />
       <stop offset="1" stop-color="#A855F7" stop-opacity="0" />
     </radialGradient>
+
     <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(300 186) rotate(-15) scale(317 115)">
       <stop stop-color="#22D3EE" stop-opacity="0.25" />
       <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
     </radialGradient>
+
     <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="24" />
     </filter>
+
     <clipPath id="clip">
       <rect width="900" height="230" rx="20" />
     </clipPath>
   </defs>
 
   <g clip-path="url(#clip)">
-    <!-- Planos de Fundo com Brilho Dinâmico -->
+    <!-- Fundo -->
     <rect width="900" height="230" fill="url(#bg)" />
+
     <rect width="900" height="230" fill="url(#glow)" filter="url(#blur)">
       <animate attributeName="opacity" values="0.55;0.85;0.55" dur="8s" repeatCount="indefinite" />
     </rect>
+
     <rect width="900" height="230" fill="url(#glow2)" filter="url(#blur)">
       <animate attributeName="opacity" values="0.45;0.65;0.45" dur="9s" repeatCount="indefinite" />
     </rect>
 
-    <!-- Ondas Abstratas Ajustadas de Fundo -->
-    <path d="M-105.9 172.5C141.2 100.6 317.6 86.2 547.1 107.8C723.5 123.6 864.7 172.5 1111.8 150.9C1235.3 140.2 1323.5 111.4 1500.0 64.7" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.4" />
-    <path d="M-123.5 194.1C141.2 136.6 370.6 122.2 573.5 140.9C776.5 159.6 900.0 198.4 1164.7 178.2C1297.1 168.2 1376.5 143.8 1500.0 93.4" stroke="#22D3EE" stroke-width="1" stroke-dasharray="10 12" stroke-linecap="round" opacity="0.3">
-      <animate attributeName="stroke-dashoffset" from="0" to="120" dur="9s" repeatCount="indefinite" />
+    <!-- Ondas -->
+    <path d="M-105.9 172.5C141.2 100.6 317.6 86.2 547.1 107.8C723.5 123.6 864.7 172.5 1111.8 150.9C1235.3 140.2 1323.5 111.4 1500.0 64.7"
+          stroke="url(#accent)"
+          stroke-width="2"
+          stroke-linecap="round"
+          opacity="0.4"/>
+
+    <path d="M-123.5 194.1C141.2 136.6 370.6 122.2 573.5 140.9C776.5 159.6 900.0 198.4 1164.7 178.2C1297.1 168.2 1376.5 143.8 1500.0 93.4"
+          stroke="#22D3EE"
+          stroke-width="1"
+          stroke-dasharray="10 12"
+          stroke-linecap="round"
+          opacity="0.3">
+      <animate attributeName="stroke-dashoffset" from="0" to="120" dur="9s" repeatCount="indefinite"/>
     </path>
 
-    <!-- Moldura Geométrica Sutil Tensa -->
+    <!-- Moldura -->
     <g opacity="0.12">
-      <path d="M20 20H880" stroke="#94A3B8" stroke-width="1" />
-      <path d="M20 210H880" stroke="#94A3B8" stroke-width="1" />
-      <path d="M20 20V210" stroke="#94A3B8" stroke-width="1" />
-      <path d="M880 20V210" stroke="#94A3B8" stroke-width="1" />
+      <path d="M20 20H880" stroke="#94A3B8" stroke-width="1"/>
+      <path d="M20 210H880" stroke="#94A3B8" stroke-width="1"/>
+      <path d="M20 20V210" stroke="#94A3B8" stroke-width="1"/>
+      <path d="M880 20V210" stroke="#94A3B8" stroke-width="1"/>
     </g>
 
-    <!-- Elementos de Texto (Alinhados com Margens Reduzidas) -->
-    <text x="45" y="85" fill="#F8FAFC" font-size="52" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0.4">
+    <!-- Nome -->
+    <text
+      x="45"
+      y="85"
+      fill="#F8FAFC"
+      font-size="52"
+      font-weight="700"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      letter-spacing="0.4">
       Renato de Azevedo Caldas
     </text>
-    <text x="45" y="135" fill="#B8C3D8" font-size="24" font-weight="500" font-family="Inter, Segoe UI, Arial, sans-serif">
-      Systems Analyst  |  Cloud Computing  |  Automation  |  Software Engineering
+
+    <!-- Subtítulo (CORRIGIDO) -->
+    <text
+      x="40"
+      y="135"
+      fill="#B8C3D8"
+      font-size="19"
+      font-weight="500"
+      font-family="Inter, Segoe UI, Arial, sans-serif"
+      letter-spacing="0.2">
+      Systems Analyst • Cloud Computing • Automation • Software Engineering
     </text>
-    <text x="45" y="180" fill="#7DD3FC" font-size="18" font-weight="600" font-family="Fira Code, Consolas, monospace">
+
+    <!-- Descrição -->
+    <text
+      x="45"
+      y="180"
+      fill="#7DD3FC"
+      font-size="18"
+      font-weight="600"
+      font-family="Fira Code, Consolas, monospace">
       Building enterprise software solutions through integration and reliability.
     </text>
+
   </g>
 </svg>
