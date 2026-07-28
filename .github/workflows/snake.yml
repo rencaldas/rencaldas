@@ -16,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,6 +26,19 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#0187FA&color_dots=#0B1224,#12305C,#1463F2,#0187FA,#7DD3FC
             dist/github-contribution-grid-snake-dark.svg?color_snake=#38BDF8&color_dots=#0D1117,#143A73,#1463F2,#38BDF8,#BFDBFE
+
+      - name: setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: add contribution count and month/day labels to the snake svg
+        env:
+          GH_LOGIN: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.PAT_READ_USER }}
+        run: |
+          node scripts/annotate-snake.mjs dist/github-contribution-grid-snake.svg
+          node scripts/annotate-snake.mjs dist/github-contribution-grid-snake-dark.svg --dark
 
       # publica o conteúdo de dist/ na branch "output"
       # os arquivos ficam disponíveis em https://raw.githubusercontent.com/<user>/<repo>/output/<file>
