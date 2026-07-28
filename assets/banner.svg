@@ -317,24 +317,24 @@
     <rect x="857" y="187" width="6.8" height="6.8" rx="1.2" fill="#014BE6" />
 
     <!-- prompt + nome, estilo terminal -->
-    <text x="45" y="83" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="30" font-weight="700" letter-spacing="0" textLength="562" lengthAdjust="spacingAndGlyphs"><tspan fill="#38BDF8">&gt;_ </tspan><tspan fill="#F8FAFC">Renato de Azevedo Caldas</tspan></text>
-    <rect x="611" y="70" width="10" height="16" fill="#38BDF8">
+    <text x="45" y="83" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-weight="700" letter-spacing="0"><tspan font-size="33" textLength="44" lengthAdjust="spacingAndGlyphs" fill="#38BDF8">&gt;_</tspan><tspan font-size="33" dx="8" textLength="550" lengthAdjust="spacingAndGlyphs" fill="#F8FAFC">Renato de Azevedo Caldas</tspan></text>
+    <rect x="651" y="68" width="11" height="18" fill="#38BDF8">
       <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite" />
     </rect>
 
     <!-- subtitulo como chips quadrados -->
-    <g font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="11" font-weight="600" letter-spacing="0.5">
+    <g font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" font-weight="600" letter-spacing="0.5" text-anchor="middle">
       <rect x="46" y="102" width="133" height="24" rx="3" fill="#0E1A30" stroke="#1D4ED8" stroke-width="1" opacity="0.9" />
-      <text x="58" y="118" fill="#7DD3FC">SYSTEMS_ANALYST</text>
+      <text x="112.5" y="118" fill="#7DD3FC">SYSTEMS_ANALYST</text>
 
       <rect x="187" y="102" width="140" height="24" rx="3" fill="#0E1A30" stroke="#1D4ED8" stroke-width="1" opacity="0.9" />
-      <text x="199" y="118" fill="#7DD3FC">CLOUD_COMPUTING</text>
+      <text x="257" y="118" fill="#7DD3FC">CLOUD_COMPUTING</text>
 
       <rect x="335" y="102" width="103" height="24" rx="3" fill="#0E1A30" stroke="#1D4ED8" stroke-width="1" opacity="0.9" />
-      <text x="347" y="118" fill="#7DD3FC">AUTOMATION</text>
+      <text x="386.5" y="118" fill="#7DD3FC">AUTOMATION</text>
 
       <rect x="446" y="102" width="176" height="24" rx="3" fill="#0E1A30" stroke="#1D4ED8" stroke-width="1" opacity="0.9" />
-      <text x="458" y="118" fill="#7DD3FC">SOFTWARE_ENGINEERING</text>
+      <text x="534" y="118" fill="#7DD3FC">SOFTWARE_ENGINEERING</text>
     </g>
 
     <!-- descricao como comentario de codigo -->
