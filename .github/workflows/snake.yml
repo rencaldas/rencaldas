@@ -1,35 +1,35 @@
-name: Generate Contribution Snake
+name: generate contribution snake
 
 on:
   schedule:
-    # Refresh the snake once per day.
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 3 * * *"    # roda todo dia às 03:00 UTC (00:00 em Brasília)
+  workflow_dispatch:        # permite disparo manual pela aba Actions
   push:
     branches:
       - main
-      - master
-
-permissions:
-  contents: write
+      - master             # cobre os dois nomes possíveis da branch padrão
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Generate snake SVG from the contribution graph
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/github-contribution-grid-snake.svg
-            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#a855f7&color_dots=#161b22,#3b1764,#6e2fc4,#9b4de8,#d2a8ff
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#c084fc&color_dots=#0d1117,#3b1764,#6e2fc4,#9b4de8,#e9d5ff
 
-      - name: Commit updated snake asset
-        uses: stefanzweifel/git-auto-commit-action@v5
+      # publica o conteúdo de dist/ na branch "output"
+      # os arquivos ficam disponíveis em https://raw.githubusercontent.com/<user>/<repo>/output/<file>
+      - name: push snake svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          commit_message: "chore: update contribution snake"
-          file_pattern: assets/github-contribution-grid-snake*.svg
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
