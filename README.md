@@ -8,6 +8,16 @@
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rencaldas/rencaldas/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rencaldas/rencaldas/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobra roxa percorrendo o grid de contribuições do GitHub" src="https://raw.githubusercontent.com/rencaldas/rencaldas/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<div align="center">
+
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=rencaldas&theme=tokyo-night&hide_border=true&area=true"
   alt="Renato Azevedo Caldas GitHub activity graph"
@@ -34,6 +44,13 @@ I am Renato de Azevedo Caldas, a 21-year-old Systems Analyst intern in Rio de Ja
 
 I study Computer Science at Veiga de Almeida University, with graduation expected in 2027, and I enjoy turning business requirements into reliable technical solutions for internal teams and production environments.
 
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Seslock Holmes](https://github.com/rencaldas/REPO_SESLOCK_HOLMES)** | Read-only web dashboard for investigating Amazon SES email events | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **[Marketplace Web](https://github.com/rencaldas/REPO_MARKETPLACE_WEB)** | Marketplace web platform | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+
 ## 🛠️ Tech Stack
 
 | Category | Technology & Tools |
@@ -56,26 +73,6 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 </div>
 
 ---
-
-<div align="center">
-
-<br />
-<br />
-<a href="https://www.linkedin.com/in/rencaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/rencaldas" target="_blank" rel="external noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:renato.deacaldas@gmail.com" target="_blank" rel="external noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://rencaldas.github.io/" target="_blank" rel="external noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-
-
-</div>
 
 [github]: https://github.com/rencaldas
 [email]: mailto:renato.deacaldas@gmail.com
