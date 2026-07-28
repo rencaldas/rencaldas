@@ -18,11 +18,6 @@
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rencaldas&theme=tokyo-night&hide_border=true&area=true"
-  alt="Renato Azevedo Caldas GitHub activity graph"
-  width="100%"
-/>
 <a href="https://www.linkedin.com/in/rencaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -45,11 +40,11 @@ I am Renato de Azevedo Caldas, a 21-year-old Systems Analyst intern in Rio de Ja
 I study Computer Science at Veiga de Almeida University, with graduation expected in 2027, and I enjoy turning business requirements into reliable technical solutions for internal teams and production environments.
 
 ## 🚀 Featured Projects
-
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Seslock Holmes](https://github.com/rencaldas/REPO_SESLOCK_HOLMES)** | Read-only web dashboard for investigating Amazon SES email events | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **[Marketplace Web](https://github.com/rencaldas/REPO_MARKETPLACE_WEB)** | Marketplace web platform | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **[Seslock Holmes](https://github.com/rencaldas/seslock-holmes)** | Dashboard read-only para investigação de eventos de e-mail do Amazon SES via Supabase/PostgreSQL — usado para diagnosticar falhas de entrega e reduziu o bounce rate de produção em até 93% | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **[Projeto Alfredos](https://github.com/rencaldas/projeto-alfredos)** | Automações (Telegram + e-mail) para notícias de tech, jogos grátis, alertas de vulnerabilidades em dependências e relatório executivo diário gerado com Google Gemini | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **[Portfolio](https://github.com/rencaldas/rencaldas.github.io)** | Portfólio profissional pessoal com carreira, stack técnica, experiências e projetos em destaque | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white) |
 
 ## 🛠️ Tech Stack
 
