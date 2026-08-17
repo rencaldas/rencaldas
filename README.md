@@ -39,13 +39,6 @@ I am Renato de Azevedo Caldas, a 21-year-old Systems Analyst intern in Rio de Ja
 
 I study Computer Science at Veiga de Almeida University, with graduation expected in 2027, and I enjoy turning business requirements into reliable technical solutions for internal teams and production environments.
 
-## 🚀 Featured Projects
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Seslock Holmes](https://github.com/rencaldas/seslock-holmes)** | Read-only dashboard for investigating Amazon SES email events via Supabase/PostgreSQL. Used to diagnose delivery failures and reduced the production bounce rate by up to 93% | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **[Projeto Alfredos](https://github.com/rencaldas/projeto-alfredos)** | Automations (Telegram + email) for tech news, free games, dependency vulnerability alerts, and a daily executive report generated with Google Gemini | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| **[Portfolio](https://github.com/rencaldas/rencaldas.github.io)** | Personal professional portfolio featuring career history, tech stack, experiences, and featured projects | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white) |
-
 ## 🛠️ Tech Stack
 
 | Category | Technology & Tools |
@@ -60,14 +53,6 @@ I study Computer Science at Veiga de Almeida University, with graduation expecte
 | **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Hardware](https://img.shields.io/badge/Hardware-6B7280?style=flat-square) ![Networking](https://img.shields.io/badge/Networking-2563EB?style=flat-square) |
 | **UX/UI Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white) |
 | **Methodologies** | ![GitHub Spec Kit](https://img.shields.io/badge/GitHub_Spec_Kit-181717?style=flat-square&logo=github&logoColor=white) ![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven_Development-2563EB?style=flat-square) |
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&random=1" />
-
-</div>
-
----
 
 [github]: https://github.com/rencaldas
 [email]: mailto:renato.deacaldas@gmail.com
