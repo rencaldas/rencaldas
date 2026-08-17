@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" alt="Renato Azevedo Caldas profile banner" width="100%" />
 
-<br>
+<br> 
 
 </div>
 
