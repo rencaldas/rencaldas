@@ -12,7 +12,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rencaldas/rencaldas/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rencaldas/rencaldas/output/github-contribution-grid-snake.svg" />
   <img alt="Cobra roxa percorrendo o grid de contribuições do GitHub" src="https://raw.githubusercontent.com/rencaldas/rencaldas/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+</picture> 
 
 </div>
 
