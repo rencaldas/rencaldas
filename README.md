@@ -12,14 +12,13 @@
 
 <br /><br />
 
-<a href="https://www.linkedin.com/in/rencaldas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjE2IDE2IDk2IDk2IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMzkuMTcgMTA3SDIxLjA2VjQ4LjczaDE4LjExem0tOS02Ni4yMWExMC41IDEwLjUgMCAxMTEwLjQ5LTEwLjUgMTAuNSAxMC41IDAgMDEtMTAuNTQgMTAuNDh6TTEwNyAxMDdIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M1Y0OC43M2gxNy4zNnY4aC4yNGMyLjQyLTQuNTggOC4zMi05LjQxIDE3LjEzLTkuNDFDMTAzLjYgNDcuMjggMTA3IDU5LjM1IDEwNyA3NXoiLz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/rencaldas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:renato.deacaldas@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://rencaldas.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjEuNyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5LjUiLz48ZWxsaXBzZSBjeD0iMTIiIGN5PSIxMiIgcng9IjQuMiIgcnk9IjkuNSIvPjxwYXRoIGQ9Ik0yLjUgMTJoMTlNNCA3aDE2TTQgMTdoMTYiLz48L2c%2BPC9zdmc%2B&logoColor=white" alt="Portfolio" /></a>
-
-<a href="https://www.instagram.com/dev.rencaldas/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.tiktok.com/@dev.rencaldas"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-<a href="https://www.youtube.com/@dev.rencaldas"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.linkedin.com/in/rencaldas/"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40" /></a>&nbsp;
+<a href="https://github.com/rencaldas"><img src="./assets/icons/github.svg" alt="GitHub" title="GitHub" width="40" height="40" /></a>&nbsp;
+<a href="mailto:renato.deacaldas@gmail.com"><img src="./assets/icons/gmail.svg" alt="Email" title="Email" width="40" height="40" /></a>&nbsp;
+<a href="https://rencaldas.github.io/"><img src="./assets/icons/portfolio.svg" alt="Portfolio" title="Portfolio" width="40" height="40" /></a>&nbsp;
+<a href="https://www.instagram.com/dev.rencaldas/"><img src="./assets/icons/instagram.svg" alt="Instagram" title="Instagram" width="40" height="40" /></a>&nbsp;
+<a href="https://www.tiktok.com/@dev.rencaldas"><img src="./assets/icons/tiktok.svg" alt="TikTok" title="TikTok" width="40" height="40" /></a>&nbsp;
+<a href="https://www.youtube.com/@dev.rencaldas"><img src="./assets/icons/youtube.svg" alt="YouTube" title="YouTube" width="40" height="40" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=rencaldas&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile visitor counter" />
 
