@@ -14,11 +14,11 @@
 
 <a href="https://www.linkedin.com/in/rencaldas/"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40" /></a>&nbsp;
 <a href="https://github.com/rencaldas"><img src="./assets/icons/github.svg" alt="GitHub" title="GitHub" width="40" height="40" /></a>&nbsp;
-<a href="mailto:renato.deacaldas@gmail.com"><img src="./assets/icons/gmail.svg" alt="Email" title="Email" width="40" height="40" /></a>&nbsp;
-<a href="https://rencaldas.github.io/"><img src="./assets/icons/portfolio.svg" alt="Portfolio" title="Portfolio" width="40" height="40" /></a>&nbsp;
 <a href="https://www.instagram.com/dev.rencaldas/"><img src="./assets/icons/instagram.svg" alt="Instagram" title="Instagram" width="40" height="40" /></a>&nbsp;
 <a href="https://www.tiktok.com/@dev.rencaldas"><img src="./assets/icons/tiktok.svg" alt="TikTok" title="TikTok" width="40" height="40" /></a>&nbsp;
-<a href="https://www.youtube.com/@dev.rencaldas"><img src="./assets/icons/youtube.svg" alt="YouTube" title="YouTube" width="40" height="40" /></a>
+<a href="https://www.youtube.com/@dev.rencaldas"><img src="./assets/icons/youtube.svg" alt="YouTube" title="YouTube" width="40" height="40" /></a>&nbsp;
+<a href="mailto:renato.deacaldas@gmail.com"><img src="./assets/icons/gmail.svg" alt="Email" title="Email" width="40" height="40" /></a>&nbsp;
+<a href="https://rencaldas.github.io/"><img src="./assets/icons/portfolio.svg" alt="Portfolio" title="Portfolio" width="40" height="40" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=rencaldas&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile visitor counter" />
 
@@ -138,10 +138,10 @@ I study Computer Science at UVA - Veiga de Almeida University, with graduation e
 
 <a href="https://www.linkedin.com/in/rencaldas/"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40" /></a>&nbsp;
 <a href="https://github.com/rencaldas"><img src="./assets/icons/github.svg" alt="GitHub" title="GitHub" width="40" height="40" /></a>&nbsp;
-<a href="mailto:renato.deacaldas@gmail.com"><img src="./assets/icons/gmail.svg" alt="Email" title="Email" width="40" height="40" /></a>&nbsp;
-<a href="https://rencaldas.github.io/"><img src="./assets/icons/portfolio.svg" alt="Portfolio" title="Portfolio" width="40" height="40" /></a>&nbsp;
 <a href="https://www.instagram.com/dev.rencaldas/"><img src="./assets/icons/instagram.svg" alt="Instagram" title="Instagram" width="40" height="40" /></a>&nbsp;
 <a href="https://www.tiktok.com/@dev.rencaldas"><img src="./assets/icons/tiktok.svg" alt="TikTok" title="TikTok" width="40" height="40" /></a>&nbsp;
-<a href="https://www.youtube.com/@dev.rencaldas"><img src="./assets/icons/youtube.svg" alt="YouTube" title="YouTube" width="40" height="40" /></a>
+<a href="https://www.youtube.com/@dev.rencaldas"><img src="./assets/icons/youtube.svg" alt="YouTube" title="YouTube" width="40" height="40" /></a>&nbsp;
+<a href="mailto:renato.deacaldas@gmail.com"><img src="./assets/icons/gmail.svg" alt="Email" title="Email" width="40" height="40" /></a>&nbsp;
+<a href="https://rencaldas.github.io/"><img src="./assets/icons/portfolio.svg" alt="Portfolio" title="Portfolio" width="40" height="40" /></a>
 
 </div>
