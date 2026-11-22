@@ -7,32 +7,14 @@
  *   node scripts/contribution-grid.mjs <saida.svg> --palette "#c0,#c1,#c2,#c3,#c4" [--dark]
  *
  * A paleta tem 5 cores: sem contribuicao -> nivel mais alto.
- * Requer env GH_LOGIN e GH_TOKEN (token com escopo read:user).
+ * Requer env GH_LOGIN. Nao precisa de token: os dados vem da pagina publica de contribuicoes
+ * (https://github.com/users/<login>/contributions), a mesma que o perfil mostra. Assim o total
+ * inclui as contribuicoes em repositorios privados, quando o perfil esta configurado para exibi-las.
  */
 
 import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 import { pathToFileURL } from "node:url";
-
-const QUERY = `
-  query($login: String!) {
-    user(login: $login) {
-      contributionsCollection {
-        contributionCalendar {
-          totalContributions
-          weeks {
-            contributionDays {
-              date
-              weekday
-              contributionCount
-              contributionLevel
-            }
-          }
-        }
-      }
-    }
-  }
-`;
 
 const LEVELS = ["NONE", "FIRST_QUARTILE", "SECOND_QUARTILE", "THIRD_QUARTILE", "FOURTH_QUARTILE"];
 const MONTH_ABBR = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
@@ -44,16 +26,44 @@ const TOP = 34; // margem para o total e os meses
 const BOTTOM = 26; // margem para a legenda
 const MIN_WEEKS_BETWEEN_LABELS = 3;
 
-async function fetchCalendar(login, token) {
-  const res = await fetch("https://api.github.com/graphql", {
-    method: "POST",
-    headers: { Authorization: `bearer ${token}`, "Content-Type": "application/json" },
-    body: JSON.stringify({ query: QUERY, variables: { login } }),
-  });
-  if (!res.ok) throw new Error(`GitHub GraphQL respondeu ${res.status}: ${await res.text()}`);
-  const json = await res.json();
-  if (json.errors) throw new Error(`GraphQL errors: ${JSON.stringify(json.errors)}`);
-  return json.data.user.contributionsCollection.contributionCalendar;
+async function fetchCalendar(login) {
+  const url = `https://github.com/users/${encodeURIComponent(login)}/contributions`;
+  const res = await fetch(url, { headers: { "User-Agent": "contribution-grid-script" } });
+  if (!res.ok) throw new Error(`${url} respondeu ${res.status}`);
+  return parseCalendarHtml(await res.text());
+}
+
+// Converte o HTML da pagina publica no mesmo formato usado por renderSvg
+export function parseCalendarHtml(html) {
+  const days = [];
+  for (const [tag] of html.matchAll(/<td\s[^>]*ContributionCalendar-day[^>]*>/g)) {
+    const date = tag.match(/data-date="(\d{4}-\d{2}-\d{2})"/)?.[1];
+    const level = tag.match(/data-level="(\d)"/)?.[1];
+    if (date && level !== undefined) days.push({ date, level: Number(level) });
+  }
+
+  const total = html.match(/([\d,]+)\s+contributions?\s+in the last year/i)?.[1];
+  if (days.length < 300 || !total) {
+    throw new Error(`formato inesperado da pagina de contribuicoes (${days.length} dias, total=${total})`);
+  }
+
+  days.sort((a, b) => a.date.localeCompare(b.date));
+  const DAY_MS = 24 * 60 * 60 * 1000;
+  const first = new Date(`${days[0].date}T00:00:00Z`);
+  const firstSunday = first.getTime() - first.getUTCDay() * DAY_MS;
+
+  const weeks = [];
+  for (const { date, level } of days) {
+    const d = new Date(`${date}T00:00:00Z`);
+    const w = Math.round((d.getTime() - d.getUTCDay() * DAY_MS - firstSunday) / (7 * DAY_MS));
+    (weeks[w] ??= { contributionDays: [] }).contributionDays.push({
+      date,
+      weekday: d.getUTCDay(),
+      contributionLevel: LEVELS[level] ?? "NONE",
+    });
+  }
+
+  return { totalContributions: Number(total.replace(/,/g, "")), weeks: weeks.filter(Boolean) };
 }
 
 export function buildMonthLabels(weeks) {
@@ -139,13 +149,12 @@ async function main() {
     process.exit(1);
   }
   const login = process.env.GH_LOGIN;
-  const token = process.env.GH_TOKEN;
-  if (!login || !token) {
-    console.error("defina GH_LOGIN e GH_TOKEN no ambiente");
+  if (!login) {
+    console.error("defina GH_LOGIN no ambiente");
     process.exit(1);
   }
 
-  const calendar = await fetchCalendar(login, token);
+  const calendar = await fetchCalendar(login);
   mkdirSync(dirname(filePath), { recursive: true });
   writeFileSync(filePath, renderSvg(calendar, { palette, dark }), "utf8");
   console.log(`grid gerado em ${filePath} (total: ${calendar.totalContributions})`);

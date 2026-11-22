@@ -25,10 +25,11 @@ jobs:
           node-version: 20
 
       # grid estatico (sem a animacao da cobra), com total, labels de mes/dia e legenda
+      # os dados vem da pagina publica de contribuicoes, entao inclui as contribuicoes privadas
+      # exibidas no perfil e nao precisa de token
       - name: generate contribution grid svgs
         env:
           GH_LOGIN: ${{ github.repository_owner }}
-          GH_TOKEN: ${{ secrets.PAT_READ_USER }}
         run: |
           node scripts/contribution-grid.mjs dist/github-contribution-grid.svg --palette "#0B1224,#12305C,#1463F2,#0187FA,#7DD3FC"
           node scripts/contribution-grid.mjs dist/github-contribution-grid-dark.svg --palette "#0D1117,#143A73,#1463F2,#38BDF8,#BFDBFE" --dark
