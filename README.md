@@ -1,36 +1,28 @@
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Renato Azevedo Caldas profile banner" width="100%" />
-  
-<br>
 
-</div>
-    
-<div align="center">
-  
+<br />
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rencaldas/rencaldas/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rencaldas/rencaldas/output/github-contribution-grid-snake.svg" />
-  <img alt="Cobra roxa percorrendo o grid de contribuições do GitHub" src="https://raw.githubusercontent.com/rencaldas/rencaldas/output/github-contribution-grid-snake.svg" width="100%" />
-</picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rencaldas/rencaldas/output/github-contribution-grid-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rencaldas/rencaldas/output/github-contribution-grid.svg" />
+  <img alt="Grid de contribuições do GitHub em tons de azul" src="https://raw.githubusercontent.com/rencaldas/rencaldas/output/github-contribution-grid.svg" width="100%" />
+</picture>
 
-</div>
+<br /><br />
 
-<div align="center">
+<a href="https://www.linkedin.com/in/rencaldas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjE2IDE2IDk2IDk2IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMzkuMTcgMTA3SDIxLjA2VjQ4LjczaDE4LjExem0tOS02Ni4yMWExMC41IDEwLjUgMCAxMTEwLjQ5LTEwLjUgMTAuNSAxMC41IDAgMDEtMTAuNTQgMTAuNDh6TTEwNyAxMDdIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M1Y0OC43M2gxNy4zNnY4aC4yNGMyLjQyLTQuNTggOC4zMi05LjQxIDE3LjEzLTkuNDFDMTAzLjYgNDcuMjggMTA3IDU5LjM1IDEwNyA3NXoiLz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/rencaldas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:renato.deacaldas@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://rencaldas.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjEuNyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5LjUiLz48ZWxsaXBzZSBjeD0iMTIiIGN5PSIxMiIgcng9IjQuMiIgcnk9IjkuNSIvPjxwYXRoIGQ9Ik0yLjUgMTJoMTlNNCA3aDE2TTQgMTdoMTYiLz48L2c%2BPC9zdmc%2B&logoColor=white" alt="Portfolio" /></a>
 
-<a href="https://www.linkedin.com/in/rencaldas/" target="_blank" rel="external noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/rencaldas" target="_blank" rel="external noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:renato.deacaldas@gmail.com" target="_blank" rel="external noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://rencaldas.github.io/" target="_blank" rel="external noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  <img src="https://komarev.com/ghpvc/?username=rencaldas&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile visitor counter" />
-</a>
+<a href="https://www.instagram.com/dev.rencaldas/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.tiktok.com/@dev.rencaldas"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<a href="https://www.youtube.com/@dev.rencaldas"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=rencaldas&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile visitor counter" />
+
 </div>
 
 ## About Me
@@ -41,19 +33,116 @@ I study Computer Science at UVA - Veiga de Almeida University, with graduation e
 
 ## 🛠️ Tech Stack
 
-| Category | Technology & Tools |
-| :--- | :--- |
-| **Programming & Web Development** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Amazon SES](https://img.shields.io/badge/SES-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white) ![MySQL_Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Automation & Integration** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Webhooks](https://img.shields.io/badge/Webhooks-1E293B?style=flat-square&logo=webhook&logoColor=white) |
-| **Containers & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Enterprise Systems** | ![SAP ERP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=flat-square&logo=sap&logoColor=white) ![Sankhya ERP](https://img.shields.io/badge/Sankhya_ERP-374151?style=flat-square) |
-| **Data Analysis** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white) |
-| **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Hardware](https://img.shields.io/badge/Hardware-6B7280?style=flat-square) ![Networking](https://img.shields.io/badge/Networking-2563EB?style=flat-square) |
-| **UX/UI Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white) |
-| **Methodologies** | ![GitHub Spec Kit](https://img.shields.io/badge/GitHub_Spec_Kit-181717?style=flat-square&logo=github&logoColor=white) ![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven_Development-2563EB?style=flat-square) |
+<table>
+  <tr>
+    <td width="200"><strong>Programming &amp; Web Development</strong></td>
+    <td>
+      <img src="./assets/skills/python.svg" width="40" height="40" alt="Python" title="Python" />
+      <img src="./assets/skills/js.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+      <img src="./assets/skills/html.svg" width="40" height="40" alt="HTML5" title="HTML5" />
+      <img src="./assets/skills/css.svg" width="40" height="40" alt="CSS3" title="CSS3" />
+      <img src="./assets/skills/django.svg" width="40" height="40" alt="Django" title="Django" />
+      <br /><sub>Python · JavaScript · HTML5 · CSS3 · Django</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><strong>Cloud</strong></td>
+    <td>
+      <img src="./assets/skills/aws.svg" width="40" height="40" alt="AWS" title="AWS" />
+      <img src="./assets/skills/s3.svg" width="40" height="40" alt="S3" title="S3" />
+      <img src="./assets/skills/ec2.svg" width="40" height="40" alt="EC2" title="EC2" />
+      <img src="./assets/skills/lambda.svg" width="40" height="40" alt="Lambda" title="Lambda" />
+      <img src="./assets/skills/ses.svg" width="40" height="40" alt="SES" title="SES" />
+      <img src="./assets/skills/amplify.svg" width="40" height="40" alt="Amplify" title="Amplify" />
+      <img src="./assets/skills/oracle.svg" width="40" height="40" alt="Oracle Cloud" title="Oracle Cloud" />
+      <img src="./assets/skills/vercel.svg" width="40" height="40" alt="Vercel" title="Vercel" />
+      <br /><sub>AWS · S3 · EC2 · Lambda · SES · Amplify · Oracle Cloud · Vercel</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><strong>Databases</strong></td>
+    <td>
+      <img src="./assets/skills/postgres.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+      <img src="./assets/skills/supabase.svg" width="40" height="40" alt="Supabase" title="Supabase" />
+      <img src="./assets/skills/mysql.svg" width="40" height="40" alt="MySQL" title="MySQL" />
+      <img src="./assets/skills/dbeaver.svg" width="40" height="40" alt="DBeaver" title="DBeaver" />
+      <img src="./assets/skills/mysql.svg" width="40" height="40" alt="MySQL Workbench" title="MySQL Workbench" />
+      <br /><sub>PostgreSQL · Supabase · MySQL · DBeaver · MySQL Workbench</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><strong>Automation &amp; Integration</strong></td>
+    <td>
+      <img src="./assets/skills/n8n.svg" width="40" height="40" alt="n8n" title="n8n" />
+      <img src="./assets/skills/rest.svg" width="40" height="40" alt="REST APIs" title="REST APIs" />
+      <img src="./assets/skills/postman.svg" width="40" height="40" alt="Postman" title="Postman" />
+      <img src="./assets/skills/webhooks.svg" width="40" height="40" alt="Webhooks" title="Webhooks" />
+      <br /><sub>n8n · REST APIs · Postman · Webhooks</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><strong>Containers &amp; DevOps</strong></td>
+    <td>
+      <img src="./assets/skills/docker.svg" width="40" height="40" alt="Docker" title="Docker" />
+      <img src="./assets/skills/git.svg" width="40" height="40" alt="Git" title="Git" />
+      <img src="./assets/skills/github.svg" width="40" height="40" alt="GitHub" title="GitHub" />
+      <br /><sub>Docker · Git · GitHub</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><strong>Enterprise Systems</strong></td>
+    <td>
+      <img src="./assets/skills/sap.svg" width="40" height="40" alt="SAP ERP" title="SAP ERP" />
+      <img src="./assets/skills/sankhya.svg" width="40" height="40" alt="Sankhya ERP" title="Sankhya ERP" />
+      <br /><sub>SAP ERP · Sankhya ERP</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><strong>Data Analysis</strong></td>
+    <td>
+      <img src="./assets/skills/powerbi.svg" width="40" height="40" alt="Power BI" title="Power BI" />
+      <img src="./assets/skills/office.svg" width="40" height="40" alt="Microsoft Office" title="Microsoft Office" />
+      <br /><sub>Power BI · Microsoft Office</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><strong>Infrastructure</strong></td>
+    <td>
+      <img src="./assets/skills/linux.svg" width="40" height="40" alt="Linux" title="Linux" />
+      <img src="./assets/skills/windows.svg" width="40" height="40" alt="Windows" title="Windows" />
+      <img src="./assets/skills/hardware.svg" width="40" height="40" alt="Hardware" title="Hardware" />
+      <img src="./assets/skills/networking.svg" width="40" height="40" alt="Networking" title="Networking" />
+      <br /><sub>Linux · Windows · Hardware · Networking</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><strong>UX/UI Design</strong></td>
+    <td>
+      <img src="./assets/skills/figma.svg" width="40" height="40" alt="Figma" title="Figma" />
+      <img src="./assets/skills/xd.svg" width="40" height="40" alt="Adobe XD" title="Adobe XD" />
+      <br /><sub>Figma · Adobe XD</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><strong>Methodologies</strong></td>
+    <td>
+      <img src="./assets/skills/speckit.svg" width="40" height="40" alt="GitHub Spec Kit" title="GitHub Spec Kit" />
+      <img src="./assets/skills/sdd.svg" width="40" height="40" alt="Spec-Driven Development" title="Spec-Driven Development" />
+      <br /><sub>GitHub Spec Kit · Spec-Driven Development</sub>
+    </td>
+  </tr>
+</table>
 
-[github]: https://github.com/rencaldas
-[email]: mailto:renato.deacaldas@gmail.com
-[portfolio]: https://rencaldas.github.io/
+---
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rencaldas/"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40" /></a>&nbsp;
+<a href="https://github.com/rencaldas"><img src="./assets/icons/github.svg" alt="GitHub" title="GitHub" width="40" height="40" /></a>&nbsp;
+<a href="mailto:renato.deacaldas@gmail.com"><img src="./assets/icons/gmail.svg" alt="Email" title="Email" width="40" height="40" /></a>&nbsp;
+<a href="https://rencaldas.github.io/"><img src="./assets/icons/portfolio.svg" alt="Portfolio" title="Portfolio" width="40" height="40" /></a>&nbsp;
+<a href="https://www.instagram.com/dev.rencaldas/"><img src="./assets/icons/instagram.svg" alt="Instagram" title="Instagram" width="40" height="40" /></a>&nbsp;
+<a href="https://www.tiktok.com/@dev.rencaldas"><img src="./assets/icons/tiktok.svg" alt="TikTok" title="TikTok" width="40" height="40" /></a>&nbsp;
+<a href="https://www.youtube.com/@dev.rencaldas"><img src="./assets/icons/youtube.svg" alt="YouTube" title="YouTube" width="40" height="40" /></a>
+
+</div>
